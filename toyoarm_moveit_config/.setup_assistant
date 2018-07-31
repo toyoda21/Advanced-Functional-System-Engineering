@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: toyoarm
+    relative_path: urdf/toyoarm.urdf.xacro
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/toyoarm.srdf
+  CONFIG:
+    author_name: test
+    author_email: test@test.jp
+    generated_timestamp: 1532626886
