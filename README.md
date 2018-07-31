@@ -2,9 +2,9 @@
 
 ![Badge Status](https://ci-as-a-service)
 
-##Overview
+## Overview
 
-講義の課題
+講義の課題です.
 
 ## Description
 
