@@ -22,12 +22,14 @@ toyoarmには8軸アームのurdfがあります.
 
 1.自作アームのモデルをmoveitで動かす
 
-$roslaunch toyoarm_moveit_config demo.launch
+	$roslaunch toyoarm_moveit_config demo.launch
 
 2.自作アーム付き移動ロボットをgazebo上でナビゲーションする
 
 - 1st terminal
+
 シミュレータを起動します.
+
 	$roslaunch diff_mobile_robot diff_mobile_gazebo.launch
 
 - 2nd terminal
