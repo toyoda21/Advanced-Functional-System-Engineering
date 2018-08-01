@@ -38,6 +38,8 @@ toyoarmには8軸アームのurdfがあります.
 
 	$roslaunch diff_mobile_robot toyoarm_control.launch
 
+https://user-images.githubusercontent.com/32505675/43516271-0c43eae4-95c0-11e8-8bd6-e8474c00e39c.png
+
 - 3nd terminal
 
 例として,関節5に対して0.5[rad]動かすコマンドを実行する.
